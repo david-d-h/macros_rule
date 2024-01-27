@@ -1,0 +1,10 @@
+[package]
+name = "macros_rule"
+version = "0.1.0"
+edition = "2021"
+authors = ["David <75451291+daviddenhaan@users.noreply.github.com>"]
+description = "A new way to write declarative macros in Rust."
+license = "MIT"
+repository = "https://github.com/daviddenhaan/macros_rule"
+homepage = "https://github.com/daviddenhaan/macros_rule"
+keywords = ["macro"]
