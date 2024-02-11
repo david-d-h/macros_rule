@@ -1,6 +1,6 @@
 [package]
 name = "macros_rule"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["David <75451291+daviddenhaan@users.noreply.github.com>"]
 description = "A new way to write declarative macros in Rust."
